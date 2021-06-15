@@ -1,4 +1,4 @@
-﻿# Simulador de Memória cache
+﻿# Simulador de Memória cache **(Grupo Sigma)**
 O simulador foi desenvolvido na linguagem de programação Python, por ser uma linguagem de programação de alto nível, com tipagem dinâmica e uma liberdade muito grande para a manipulação de strings. Para organizar o desenvolvimento do código em equipe, utilizamos o Google Colaboratory, uma ferramenta que facilita o compartilhamento de códigos por meio de uma lista de células que podem conter textos explicativos ou códigos executáveis e até mesmo suas respectivas saídas.
 
 ## Instalação
