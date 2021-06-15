@@ -57,7 +57,7 @@ Então aparecerão as instruções abaixo:
     
 	-   Write Thought
 	
-    ## 1 - Mapeamento Direto
+    ## Mapeamento Direto
     Sobre o mapeamento direto ele é a técnica mais simples, visto que mapeia cada bloco da memória principal a apenas uma linha de cache possível.
 
 Aplicando o mapeamento direto no arquivo ''t4.trace'':
@@ -169,6 +169,9 @@ A saída será:
     POLITICA DE ESCRITA WRITE THROUGH
     SUBSTITUIÇAO LFU
 
+### PS
+
+Ao final de cada execução o simulador irá gerar um arquivo de texto com os traços finais da memória cache.
     
 
 
