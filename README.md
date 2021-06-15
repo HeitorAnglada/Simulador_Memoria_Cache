@@ -171,7 +171,7 @@ A saída será:
 
 ### PS
 
-Ao final de cada execução o simulador irá gerar um arquivo de texto com os traços finais da memória cache.
+Ao final de cada execução o simulador irá gerar um arquivo de texto contendo os traços finais da memória cache.
     
 
 
